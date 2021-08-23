@@ -1,0 +1,5 @@
+/.vs/*
+/Debug/*
+/LocksTest1.vcxproj.filters
+/LocksTest1.vcxproj.user
+/Release/*
